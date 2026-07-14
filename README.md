@@ -35,14 +35,27 @@
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding gif"/>
 
-- 🌱 I'm **Md Karim**, a passionate **Full Stack Developer** based in **India** 🇮🇳
-- 💻 I specialize in the **MERN Stack** — MongoDB, Express.js, React.js, Node.js
-- 🚀 I love building clean, scalable, and performant web applications
-- 🌍 Strong believer in **Open Source** and community-driven learning
-- ⚡ Quick learner who enjoys solving real-world problems with code
-- 🤝 Skilled in **Teamwork**, **Communication**, and **Problem Solving**
-- 📫 Reach me at **mdkarimwork@gmail.com**
+Welcome to my GitHub profile 👋 — I'm **Md Karim**, a passionate **Full Stack Developer** from **India** 🇮🇳, focused on building fast, scalable, and user-friendly web applications with the **MERN Stack**.
+
+```yaml
+Name:        Md Karim
+Role:        Full Stack Developer | MERN Stack Developer
+Location:    India 🇮🇳
+Focus:       Building Production-Ready Web Applications
+Currently:   Exploring Open Source & System Design
+Fun Fact:    I debug faster with a cup of chai ☕
+```
+
+- 🔭 I'm currently working on **full-stack MERN projects** (E-Commerce, Blogs, Inventory Systems)
+- 🌱 I'm currently sharpening my skills in **DSA, System Design & TypeScript**
+- 👯 I'm looking to collaborate on **open-source** and **full-stack web projects**
+- 🤔 I'm looking for help with **advanced backend architecture & scalable systems**
+- 💬 Ask me about **React.js, Node.js, MongoDB, JavaScript & REST APIs**
+- 📫 How to reach me: **mdkarimwork@gmail.com**
+- ⚡ Fun fact: I love turning ☕ into clean, working code
 - 🎯 2026 Goal: Contribute to major open-source projects & build impactful SaaS products
+
+<br clear="right"/>
 
 <br clear="right"/>
 
